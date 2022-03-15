@@ -4,7 +4,7 @@ I'am Mouad abdelmalki , a Front-end web Developper
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Morroco
+self-taught passionate FrontEnd developer from Morroco
 
 **About me**
 
