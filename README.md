@@ -18,7 +18,7 @@ I'am self-taught passionate FrontEnd developer from Morroco
 <div align="center">
   <a href="https://github.com/mouadabdelmalki">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mouadabdelmalki&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadabdelmalki&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<!--   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouadabdelmalki&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/> -->
 </div>
 <div align="center"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
