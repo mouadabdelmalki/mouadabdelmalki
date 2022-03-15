@@ -1,21 +1,22 @@
 ### Hi there 👋
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
+I'am Mouad abdelmalki , a Front-end web Developper 
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Morroco
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [FCPO](http://fcpo.ma/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-I'am Mouad abdelmalki , a Front-end web Developper 
+
+
 
 
 <div align="center">
