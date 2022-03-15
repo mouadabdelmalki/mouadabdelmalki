@@ -12,11 +12,10 @@ I'am self-taught passionate FrontEnd developer from Morroco
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Javascript 
 
 
-
-
+<br />
 
 
 <div align="center">
