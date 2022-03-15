@@ -53,9 +53,9 @@ I'am self-taught passionate FrontEnd developer from Morroco
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://twitter.com/mouadabdelmalki">
+  <img align="right" alt="mouadabdelmalki | Twitter" width="21px" src="https://raw.githubusercontent.com/mouadabdelmalki/mouadabdelmalki/master/assets/twitter.svg" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/mouadabdelmalki">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
