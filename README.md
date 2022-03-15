@@ -9,8 +9,6 @@ I'am self-taught passionate FrontEnd developer from Morroco
 **About me**
 
 - 💼 FrontEnd Engineer at [FCPO](http://fcpo.ma/)
-- ❤️ I love writing HTML , CSS , Javascript 
-
 
 <br />
 
