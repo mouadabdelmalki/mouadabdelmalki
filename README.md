@@ -36,26 +36,9 @@ I'am self-taught passionate FrontEnd developer from Morroco
   <a href="https://instagram.com/itsm__ouad" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:mouad11@live.fr"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mouadabdelmalki/"><img src="https://img.shields.io/badge/-Linkedin-2a68b5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UCRmKo0bJs3Eo1wMaeCIT8tQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23E4405F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
   
   
-  #### Top Repositories
-
-
-<a href="https://github.com/mouadabdelmalki/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouadabdelmalki&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/mouadabdelmalki/mouadabdelmalki.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouadabdelmalki&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/mouadabdelmalki">
-  <img align="right" alt="mouadabdelmalki | Twitter" width="21px" src="https://raw.githubusercontent.com/mouadabdelmalki/mouadabdelmalki/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/mouadabdelmalki">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+ 
