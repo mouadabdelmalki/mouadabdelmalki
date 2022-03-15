@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'am Mouad abdelmalki , a Front-end web Developper 
+I'am <strong> Mouad abdelmalki </strong> 
+I'am self-taught passionate FrontEnd developer from Morroco
 
 <br />
 
-self-taught passionate FrontEnd developer from Morroco
 
 **About me**
 
