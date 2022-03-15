@@ -9,10 +9,7 @@ I'am self-taught passionate FrontEnd developer from Morroco
 **About me**
 
 - 💼 FrontEnd Engineer at [FCPO](http://fcpo.ma/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
-
-- ❤️ I love writing Javascript 
+- ❤️ I love writing HTML , CSS , Javascript 
 
 
 <br />
