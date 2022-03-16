@@ -25,7 +25,7 @@ I'am self-taught passionate FrontEnd developer from Morroco
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://capixatech.in/wp-content/uploads/2021/02/web-designing-services.gif">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 </div>
   
   ##
