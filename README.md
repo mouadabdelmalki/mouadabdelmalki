@@ -25,7 +25,7 @@ I'am self-taught passionate FrontEnd developer from Morroco
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://qph.fs.quoracdn.net/main-qimg-03a4a5f034bf0bafa661fd8a8aabedc8">
+  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://servequewebservices.in/wp-content/uploads/2021/10/dynamic-website-designing.gif">
 </div>
   
   ##
