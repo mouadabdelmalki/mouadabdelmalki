@@ -2,7 +2,7 @@
 
 I'am <strong> Mouad abdelmalki </strong> 
 <br />
-I'am self-taught passionate FrontEnd developer from Morroco
+
 
 <br />
 
@@ -10,6 +10,8 @@ I'am self-taught passionate FrontEnd developer from Morroco
 ### **About me**
 
 - 💼 FrontEnd Engineer at [FCPO](http://fcpo.ma/)
+- ❤️ self-taught passionate FrontEnd developer 
+- 🗺️ based in Morroco
 
 <br />
 
