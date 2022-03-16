@@ -3,10 +3,6 @@
 I'am <strong> Mouad abdelmalki </strong> 
 <br />
 
-
-<br />
-
-
 ### **About me**
 
 - 💼 FrontEnd Engineer at [FCPO](http://fcpo.ma/)
