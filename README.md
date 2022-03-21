@@ -6,7 +6,7 @@ I'am <strong> Mouad abdelmalki </strong>
 ### **About me**
 
 - 💼 FrontEnd Engineer at [FCPO](http://fcpo.ma/)
-- ❤️ self-taught passionate FrontEnd developer 
+- ❤️ passionate FrontEnd developer 
 - 🗺️ based in Morroco
 
 <br />
